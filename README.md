@@ -11,8 +11,11 @@
 
 ## ⚡ Tech Stack
 Node.js • Express • MongoDB • React • Tailwind • Clerk • Inngest
+ ## ⚡ Skills  👈 ADD HERE
 
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,mongodb,react,tailwind,git,github,html,css,vscode" />
 ---
+
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SakshamRijal1&show_icons=true)

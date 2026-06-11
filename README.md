@@ -13,7 +13,7 @@
 Node.js • Express • MongoDB • React • Tailwind • Clerk • Inngest
  ## ⚡ Skills  👈 ADD HERE
 
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,mongodb,react,tailwind,git,github,html,css,vscode" />
+<img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,react,tailwind,git,github,html,css,vscode,inngest,clerk,bootstrap,c,c++" />
 ---
 
 

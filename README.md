@@ -25,5 +25,5 @@ Node.js • Express • MongoDB • React • Tailwind • Clerk • Inngest
 ---
 
 ## 🌐 Connect
-- Email: yourmail@gmail.com
-- LinkedIn: your link
+- Email: sakshamrijal07@gmail.com
+- LinkedIn:https://www.linkedin.com/in/saksham-rijal-1a2958357/

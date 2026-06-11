@@ -15,7 +15,7 @@ Node.js • Express • MongoDB • React • Tailwind • Clerk • Inngest
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SakshamRijal1&show_icons=true)
 
 ---
 

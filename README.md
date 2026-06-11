@@ -1,11 +1,11 @@
 # SAKSHAM-RIJAL
 
-# Hi, I'm Saksham 👋
+![Typing](https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=false&vCenter=false&lines=Hi+I'm+Saksham+👋;MERN+Stack+Developer;Building+Full+Stack+Apps)
 
-💻 Full Stack Developer (MERN)  
+💻 Full Stack Developer (MERN Stack Enthusiast)
 🚀 Building scalable web apps with Node.js, Express & MongoDB  
-🔥 Passionate about backend systems & clean architecture  
-📚 Currently building full-stack applications  
+🔥 Interested in backend systems & clean architecture  
+📚 Currently building full-stack projects  
 
 ---
 

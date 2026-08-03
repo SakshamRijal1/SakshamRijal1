@@ -40,9 +40,7 @@
 
 # 🛠 Tech Stack
 
-<p align="center">
 
-# 🛠 Tech Stack
 
 <p align="center">
 

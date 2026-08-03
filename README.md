@@ -42,7 +42,13 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,js,react,redux,nodejs,express,mongodb,redis,docker,git,github,linux,postman,vscode"/>
+# 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,redux,nodejs,express,mongodb,redis,docker,git,github,postman,vscode,c,cpp"/>
+
+</p>
 
 </p>
 
